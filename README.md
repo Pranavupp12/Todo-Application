@@ -65,11 +65,3 @@ Note: This is a dummy API, so new todos are not stored after reload.
 ## 📷 Preview
 
 Application is deployed through netlify and you and preview it on LINK - https://celadon-kelpie-dccfc9.netlify.app/
-
----
-
-## 👨‍💻 Author
-
-Created by **[Your Name]**
-
-Feel free to contribute or suggest improvements!
