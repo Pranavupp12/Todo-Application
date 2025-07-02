@@ -53,23 +53,6 @@ Note: This is a dummy API, so new todos are not stored after reload.
 
 ---
 
-## 🌍 Deploying to Netlify
-
-You can easily deploy this project on **[Netlify](https://netlify.com)** for free.
-
-### Steps:
-
-1. ✅ **Unzip** the project if it’s in `.zip` format.
-
-2. ✅ Go to [https://app.netlify.com](https://app.netlify.com) and log in or sign up.
-
-3. ✅ Click **“Add New Site” → “Deploy manually”**.
-
-4. ✅ Drag and drop your project folder (containing `index.html`) into the upload area.
-
-5. ✅ Netlify will deploy it instantly and give you a live URL (e.g. `https://your-todo-app.netlify.app`)
-
----
 
 ## 💡 Notes
 
@@ -81,7 +64,7 @@ You can easily deploy this project on **[Netlify](https://netlify.com)** for fre
 
 ## 📷 Preview
 
-![Todo App Screenshot](screenshot.png) <!-- Replace or add this screenshot if desired -->
+Application is deployed through netlify and you and preview it on LINK - https://celadon-kelpie-dccfc9.netlify.app/
 
 ---
 
